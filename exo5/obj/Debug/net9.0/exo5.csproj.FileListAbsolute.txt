@@ -1,0 +1,14 @@
+C:\U\exo5\exo5\exo5\bin\Debug\net9.0\exo5.exe
+C:\U\exo5\exo5\exo5\bin\Debug\net9.0\exo5.deps.json
+C:\U\exo5\exo5\exo5\bin\Debug\net9.0\exo5.runtimeconfig.json
+C:\U\exo5\exo5\exo5\bin\Debug\net9.0\exo5.dll
+C:\U\exo5\exo5\exo5\bin\Debug\net9.0\exo5.pdb
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.AssemblyInfoInputs.cache
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.AssemblyInfo.cs
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.csproj.CoreCompileInputs.cache
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.dll
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\refint\exo5.dll
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.pdb
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\exo5.genruntimeconfig.cache
+C:\U\exo5\exo5\exo5\obj\Debug\net9.0\ref\exo5.dll
